@@ -1,0 +1,13 @@
+App name
+DUPUY FRANCOISE
+
+Short description
+Track shifts, supply requests, patrol logs, and room bookings locally.
+
+Full description
+DUPUY FRANCOISE helps operations teams keep daily business tasks organized from an Android phone. Create records for shift coverage, procurement requests, guard patrol rounds, and facility bookings, then review them by status, owner, location, due window, and priority.
+
+The app is designed for local workflow tracking without account registration or cloud sync. Records stay on the device so managers can manage handovers, supply reviews, patrol follow-up, and booking checks in one focused queue.
+
+Category
+Business
