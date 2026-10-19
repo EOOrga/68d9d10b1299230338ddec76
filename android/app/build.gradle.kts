@@ -28,7 +28,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.dupuyfrancoise.operations"
+        applicationId = "com.dupuyff.faster"
         minSdk = flutter.minSdkVersion
         targetSdk = flutter.targetSdkVersion
         versionCode = flutter.versionCode
