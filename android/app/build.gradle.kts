@@ -28,7 +28,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.dupuyfrancoise.operations"
+        applicationId = "com.dupuyfrancoise.omitte"
         minSdk = flutter.minSdkVersion
         targetSdk = flutter.targetSdkVersion
         versionCode = flutter.versionCode
