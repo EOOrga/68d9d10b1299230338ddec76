@@ -30,7 +30,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.dupuyfrancoise.operations"
+        applicationId = "com.dupuyfrancoise.achkaloan"
         minSdk = flutter.minSdkVersion
         targetSdk = flutter.targetSdkVersion
         versionCode = flutter.versionCode
